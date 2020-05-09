@@ -8,5 +8,4 @@ img = qrcode.make(data)
 # save img to a file
 img.save(filename)
 
-####START COMPETITIVE CODING FROM TODAY,WATCH RAVI BABU AND 9HRS
-#LONG LECTURE,ALSO DO ML AND PANDAS
+####START COMPETITIVE CODING
